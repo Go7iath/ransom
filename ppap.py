@@ -23,10 +23,10 @@ BG_PATH  = os.path.join(HERE, "shrekbg.png")
 BGM_PATH = os.path.join(HERE, "bgsound.mp3")
 
 FRAME_MS = 16
-LOGO_COUNT = 6
+LOGO_COUNT = 10
 LOGO_SPEED_MIN = 2
-LOGO_SPEED_MAX = 5
-LOGO_TARGET_SIZE = 100
+LOGO_SPEED_MAX = 7
+LOGO_TARGET_SIZE = 200
 
 WIN_W = 900
 WIN_H = 650
